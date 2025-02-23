@@ -129,7 +129,7 @@ def start(message):
             "9. Be aware of the consequences of your actions! ⚖️\n"
             "10. Stay within the limits and play fair! 🤗\n"
             "💡 Follow the rules and let's enjoy gaming together! 🎉\n"
-            "📞 Contact the owner on Instagram and Telegram: @venomXcrazy\n"
+            "📞 Contact the owner on Instagram and Telegram: @Hackerdns13\n"
             "☠️ To see the Telegram Bot Command type: /help"
             "👤 To find your user ID type: /id"
         )
@@ -287,7 +287,7 @@ def help_command(message):
 """
 **🚨 IMPORTANT: PLEASE READ CAREFULLY BEFORE USING THIS BOT 🚨**
 
-This bot is owned and operated by @venomXcrazy on Telegram and all4outgaming on Instagram, 🇮🇳. By using this bot, you acknowledge that you understand and agree to the following terms:
+This bot is owned and operated by @Hackerdns13 on Telegram and all4outgaming on Instagram, 🇮🇳. By using this bot, you acknowledge that you understand and agree to the following terms:
 
 * **🔒 NO WARRANTIES**: This bot is provided "as is" and "as available", without warranty of any kind, express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
 * **🚫 LIMITATION OF LIABILITY**: The owner and operator of this bot, on Telegram and Jayraut800 on Instagram, shall not be liable for any damages or losses arising from the use of this bot, including but not limited to direct, indirect, incidental, punitive, and consequential damages, including loss of profits, data, or business interruption.
