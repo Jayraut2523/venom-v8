@@ -67,7 +67,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 If you have any questions or feedback, reach out via:
 
-- Telegram: [@venomXcrazy](https://t.me/venomXcrazy)
+- Telegram: [@Hackerdns13](https://t.me/Jayraut800)
 
 ---
 
